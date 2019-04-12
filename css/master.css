@@ -5,3 +5,12 @@
 #fun-responses {
   display: none;
 }
+
+body {
+  font-family: sans-serif;
+}
+#transportation_survey {
+  margin: 12px;
+  padding: 8px;
+  max-width: 500px;
+}
